@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFDF3E&height=180&section=header&text=SOHEE%20YUN\%20💡&fontAlignY=45&desc=i%20am%20a%20%20professional%20developer&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=Ffe57f&height=180&section=header&text=SOHEE%20YUN\%20💡&fontAlignY=45&desc=I'm%20a%20fake%20developer&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) 
 
 📝study📝<br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
