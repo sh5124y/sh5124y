@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Kotlin-800080?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-FF1493?style=flat-square&logo=MySQL&logoColor=white"/></a><br><br>
 
-![sohee GitHub stats](https://github-readme-stats.vercel.app/api?username=sh5124y&show_icons=true&theme=midnight-purple)
+![sohee GitHub stats](https://github-readme-stats.vercel.app/api?username=sh5124y&show_icons=true&theme=material-palenight)
 
 
 
