@@ -1,7 +1,7 @@
 
  <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=Ffe57f&height=180&section=header&text=SOHEE%20YUN\%20💡&fontAlignY=45&desc=I'm%20a%20fake%20developer&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&heigh=300&section=header&text=SOHEE%20YUN\%20💡&fontAlignY=45&desc=I'm%20a%20fake%20developer&descSize=25&descAlignY=75&fontSize=60&animation=twinkling) 
 
 
 
