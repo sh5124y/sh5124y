@@ -29,6 +29,5 @@
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=sh5124y&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sh5124y)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sh5124y&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </a>
